@@ -1,8 +1,8 @@
 # pyspark_winter_2023
 
-Тут будет жить курс по Spark
+Выполнение курса по PySpark
 
-План курса:
+## План курса:
 
 1) Экосистема Hadoop и MapReduce
 2) Введение в Spark и Spark RDD
