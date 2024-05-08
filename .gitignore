@@ -1,5 +1,9 @@
 # User defined files
 /lesson_3/*.parquet
+/lesson_4/data_pipeline/
+/lesson_4/logreg_model/
+/lesson_4/cv_model/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
